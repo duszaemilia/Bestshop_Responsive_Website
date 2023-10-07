@@ -1,0 +1,22 @@
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+node_modules/
+.sass-cache/
+
+
+### Code ###
+# Visual Studio Code
+.settings/
+.vscode/
+
+### Webstorm ###
+.idea/
+
+### Other ###
+.test/
+.solution
+dist
+.parcel-cache
